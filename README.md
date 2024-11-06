@@ -1,4 +1,4 @@
-# MeowWoof Image Classifier 
+# MeowWoof Image Classifier (Flutter)
 
 Machine Learning Mobile Application with Flutter and TensorFlow Lite
 
